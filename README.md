@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/f1a51f45ee25b741"))() loadstring(game:HttpGet("https://raw.githubusercontent.com/undefinedsource338/bestautoparry/refs/heads/main/parry.lua"))()
